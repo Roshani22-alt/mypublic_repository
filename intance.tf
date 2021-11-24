@@ -1,5 +1,3 @@
-[2:59 PM] Kolipally Priyanka
-
 provider "google" {
 project = var.project
 region = "us-central1"
